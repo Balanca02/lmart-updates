@@ -1,9 +1,9 @@
 {
-    "changelog":  "Nova versao 1.27 com atualizacao instantanea no app!",
-    "versionName":  "1.27",
+    "changelog":  "Nova versao 1.28 com atualizacao instantanea no app!",
+    "versionName":  "1.28",
     "zipUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/main/dist.zip",
-    "versionCode":  27,
+    "versionCode":  28,
     "mandatory":  false,
     "apkUrl":  "https://drive.usercontent.google.com/download?id=1SLVCUX4f3n0N1ecDU_IRXxRyp6GT7Jdf\u0026export=download",
-    "checksum":  "2115914453bf6955e9606ca49b32517a9571827bb1af744ddb02f172a690f416"
+    "checksum":  "ca63403c0b10d3ce4f88047f6e2970123a73f52effc35b84672d57821162b452"
 }
