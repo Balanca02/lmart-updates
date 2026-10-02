@@ -1,9 +1,9 @@
 {
-    "changelog":  "Nova versao 1.37 com atualizacao instantanea no app!",
-    "versionName":  "1.37",
+    "changelog":  "Nova versao 1.38 com atualizacao instantanea no app!",
+    "versionName":  "1.38",
     "zipUrl":  "https://cdn.jsdelivr.net/gh/Balanca02/lmart-updates@main/dist.zip",
-    "versionCode":  37,
+    "versionCode":  38,
     "mandatory":  false,
     "apkUrl":  "https://drive.usercontent.google.com/download?id=1SLVCUX4f3n0N1ecDU_IRXxRyp6GT7Jdf\u0026export=download",
-    "checksum":  "33a926cbc207da024a76f29c25375cb66e8ea59a6292fbaf6c9a925ef6c4b06c"
+    "checksum":  "b5a6d428d6f8e5554192f5cc64c93ce43f78771e51727b4165873827da4859e7"
 }
