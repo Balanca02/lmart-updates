@@ -1,7 +1,7 @@
 {
-  "changelog": "Nova versao com logo LMART Digital, layout mobile otimizado e formulario redesenhado!",
-  "apkUrl": "https://drive.google.com/uc?export=download&id=1SLVCUX4f3n0N1ecDU_IRXxRyp6GT7Jdf",
-  "versionName": "1.15",
-  "versionCode": 15,
-  "mandatory": false
+    "apkUrl":  "https://drive.usercontent.google.com/download?id=1SLVCUX4f3n0N1ecDU_IRXxRyp6GT7Jdf\u0026export=download",
+    "changelog":  "Nova versao 1.17 disponivel com melhorias e novidades!",
+    "mandatory":  false,
+    "versionCode":  17,
+    "versionName":  "1.17"
 }
