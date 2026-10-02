@@ -1,8 +1,8 @@
 {
-    "changelog":  "Nova versao 1.24 com atualizacao instantanea no app!",
-    "versionName":  "1.24",
-    "zipUrl":  "https://github.com/Balanca02/lmart-updates/releases/download/v1.24/dist.zip",
-    "versionCode":  24,
+    "changelog":  "Nova versao 1.25 com atualizacao instantanea no app!",
+    "versionName":  "1.25",
+    "zipUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/main/dist.zip",
+    "versionCode":  25,
     "mandatory":  false,
     "apkUrl":  "https://drive.usercontent.google.com/download?id=1SLVCUX4f3n0N1ecDU_IRXxRyp6GT7Jdf\u0026export=download"
 }
