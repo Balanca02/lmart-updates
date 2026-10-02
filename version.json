@@ -4,5 +4,6 @@
     "zipUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/main/dist.zip",
     "versionCode":  25,
     "mandatory":  false,
-    "apkUrl":  "https://drive.usercontent.google.com/download?id=1SLVCUX4f3n0N1ecDU_IRXxRyp6GT7Jdf\u0026export=download"
+    "apkUrl":  "https://drive.usercontent.google.com/download?id=1SLVCUX4f3n0N1ecDU_IRXxRyp6GT7Jdf\u0026export=download",
+    "checksum":  "85d291e308c986d1ac174665f95b33fee61043ac2385bcea236853554dfabe2a"
 }
