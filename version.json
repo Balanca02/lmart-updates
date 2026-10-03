@@ -1,10 +1,10 @@
 {
-    "changelog":  "Nova versao 1.112 com atualizacao instantanea no app!",
+    "changelog":  "Nova versao 1.113 com atualizacao instantanea no app!",
     "minimumNativeVersion":  110,
-    "versionName":  "1.112",
-    "zipUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/676da8380447070ae2ca2f61c9417fc3dffc7746/dist-112.zip",
-    "versionCode":  112,
+    "versionName":  "1.113",
+    "zipUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/1a08476d06542fa16525fc0fbd1449bb33742897/dist-113.zip",
+    "versionCode":  113,
     "mandatory":  false,
     "apkUrl":  "https://drive.google.com/file/d/1SLVCUX4f3n0N1ecDU_IRXxRyp6GT7Jdf/view",
-    "checksum":  "8eb11ba2811709ac66386ae7c085b7cc1df43fd9261a36786f21affe79382166"
+    "checksum":  "9020b46a5dd00edab7d831cf4b10b71b7b536fd8da0161e77229e880bdb7f3cd"
 }
