@@ -1,10 +1,10 @@
 {
-    "changelog":  "Nova versao 1.84 com atualizacao instantanea no app!",
+    "changelog":  "Nova versao 1.85 com atualizacao instantanea no app!",
     "minimumNativeVersion":  82,
-    "versionName":  "1.84",
-    "zipUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/58d5d0f98906a43b121dac97153247e5b623254a/dist-84.zip",
-    "versionCode":  84,
+    "versionName":  "1.85",
+    "zipUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/273e7e4a65212aed48411ebcb71520290ff025d7/dist-85.zip",
+    "versionCode":  85,
     "mandatory":  false,
     "apkUrl":  "https://drive.google.com/file/d/1SLVCUX4f3n0N1ecDU_IRXxRyp6GT7Jdf/view",
-    "checksum":  "aed42861e7036c0f53df05668005c6ff8195815654da2eaabb9c5dcf19751fe9"
+    "checksum":  "33831b18c53a134a54733cfd73f9223fb22fc812f75f4044885cf81841fb8990"
 }
