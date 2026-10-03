@@ -1,10 +1,10 @@
 {
-    "changelog":  "Nova versao 1.61 com atualizacao instantanea no app!",
+    "changelog":  "Nova versao 1.62 com atualizacao instantanea no app!",
     "minimumNativeVersion":  61,
-    "versionName":  "1.61",
-    "zipUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/e38ab09630fc2b2577b1915210131229ee2ad941/dist-61.zip",
-    "versionCode":  61,
+    "versionName":  "1.62",
+    "zipUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/f7c61ed3369a2ddabbd276c016b25d162d5c03f5/dist-62.zip",
+    "versionCode":  62,
     "mandatory":  false,
     "apkUrl":  "https://drive.google.com/file/d/1SLVCUX4f3n0N1ecDU_IRXxRyp6GT7Jdf/view",
-    "checksum":  "77f3936280311e56242e6a443451fd0bd503da47f7d644f0be7826453c4a1b07"
+    "checksum":  "97f3293c0e8453010d4d28f79dbfb74e8a4f140251328f4d9bf5dcafd2ae77bf"
 }
