@@ -1,10 +1,10 @@
 {
-    "changelog":  "Nova versao 1.114 com atualizacao instantanea no app!",
-    "minimumNativeVersion":  110,
-    "versionName":  "1.114",
-    "zipUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/7bf9e382e1ecad0efb2d2c490ea1c431d9acf30b/dist-114.zip",
-    "versionCode":  114,
+    "changelog":  "Nova versao 1.115 com atualizacao instantanea no app!",
+    "minimumNativeVersion":  115,
+    "versionName":  "1.115",
+    "zipUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/6919fdcfe66a1e7c58e8cc576083a17030869242/dist-115.zip",
+    "versionCode":  115,
     "mandatory":  false,
     "apkUrl":  "https://drive.google.com/file/d/1SLVCUX4f3n0N1ecDU_IRXxRyp6GT7Jdf/view",
-    "checksum":  "eeac217b9c0199e6f4760e5fae7634bd583f65d463adb59ca16bcd9997399740"
+    "checksum":  "7454d688ac11969b1e26edfb78807c75bb7d1548ad16d18bd3c76bb4eacae1c3"
 }
