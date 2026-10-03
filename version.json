@@ -1,10 +1,10 @@
 {
-    "changelog":  "Nova versao 1.71 com atualizacao instantanea no app!",
+    "changelog":  "Nova versao 1.72 com atualizacao instantanea no app!",
     "minimumNativeVersion":  61,
-    "versionName":  "1.71",
-    "zipUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/f52c0d3439efdc2855b3bd753825d1f704daeda8/dist-71.zip",
-    "versionCode":  71,
+    "versionName":  "1.72",
+    "zipUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/4bc1e2f6e8d99da178c7d7ee932bf42f040625df/dist-72.zip",
+    "versionCode":  72,
     "mandatory":  false,
     "apkUrl":  "https://drive.google.com/file/d/1SLVCUX4f3n0N1ecDU_IRXxRyp6GT7Jdf/view",
-    "checksum":  "938623d682721cba12a3c9e8ce3337546d7720687c50036fb4bd2203cb7ebe18"
+    "checksum":  "cedf8f6719db7c3e603e6c33c0f716cbebb3f531acfceedcab298a43559cb29a"
 }
