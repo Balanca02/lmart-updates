@@ -1,10 +1,10 @@
 {
-    "changelog":  "Nova versao 1.79 com atualizacao instantanea no app!",
+    "changelog":  "Nova versao 1.80 com atualizacao instantanea no app!",
     "minimumNativeVersion":  79,
-    "versionName":  "1.79",
-    "zipUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/3945195dafd8cca72caf2e95f5e86bd72639f65c/dist-79.zip",
-    "versionCode":  79,
+    "versionName":  "1.80",
+    "zipUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/3f75d5ef69a8cfeac90bef3b5b2bc1a29bf1dcf8/dist-80.zip",
+    "versionCode":  80,
     "mandatory":  false,
     "apkUrl":  "https://drive.google.com/file/d/1SLVCUX4f3n0N1ecDU_IRXxRyp6GT7Jdf/view",
-    "checksum":  "9fc2a38ec4dd2b3f0902e9f82c793ff4d6fec92ae864298eb525816085ce17c8"
+    "checksum":  "1f3f8c7f7b43a6fff3aaf1c87411cc8069f134c37c6236c9679a006cb4c29d43"
 }
