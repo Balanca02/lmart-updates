@@ -1,10 +1,10 @@
 {
-    "changelog":  "Nova versao 1.92 com atualizacao instantanea no app!",
+    "changelog":  "Nova versao 1.93 com atualizacao instantanea no app!",
     "minimumNativeVersion":  82,
-    "versionName":  "1.92",
-    "zipUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/8ebd08856930c7c00506a4fc6770536c72744c1e/dist-92.zip",
-    "versionCode":  92,
+    "versionName":  "1.93",
+    "zipUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/e23fd09d560a927f80ed1f3b86a32a875e1372cf/dist-93.zip",
+    "versionCode":  93,
     "mandatory":  false,
     "apkUrl":  "https://drive.google.com/file/d/1SLVCUX4f3n0N1ecDU_IRXxRyp6GT7Jdf/view",
-    "checksum":  "6818ce432db722c4293b937471070b32019e1f320b1b6a34ee2799e7cfd3f273"
+    "checksum":  "980c88f0e47e2d176e859f665d9ba89e3928d28d30fb16e5839afe2d727be25b"
 }
