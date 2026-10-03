@@ -1,10 +1,10 @@
 {
-    "changelog":  "Nova versao 1.99 com atualizacao instantanea no app!",
+    "changelog":  "Nova versao 1.100 com atualizacao instantanea no app!",
     "minimumNativeVersion":  98,
-    "versionName":  "1.99",
-    "zipUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/f584a707c6479061af66c0e6707af338397be517/dist-99.zip",
-    "versionCode":  99,
+    "versionName":  "1.100",
+    "zipUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/ce2be448151f6c6b1cfba6e3bf08f86a60f9d651/dist-100.zip",
+    "versionCode":  100,
     "mandatory":  false,
     "apkUrl":  "https://drive.google.com/file/d/1SLVCUX4f3n0N1ecDU_IRXxRyp6GT7Jdf/view",
-    "checksum":  "cceb1534067e04f88c2abe398667be3288223ab305747ccfb9f625e0ebf67daa"
+    "checksum":  "2c2d9c0ced8b339a075617576f982bbdec56a5cad9ef4255e3697e4cf5a9ef13"
 }
