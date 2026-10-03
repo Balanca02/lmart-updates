@@ -1,9 +1,9 @@
 {
-  "changelog": "Nova versao 1.48 com atualizacao instantanea no app!",
-  "zipUrl": "https://raw.githubusercontent.com/Balanca02/lmart-updates/0554ff824001acf6e8df318d26dfe59537c23b44/dist-48.zip",
-  "mandatory": false,
-  "versionCode": 48,
-  "versionName": "1.48",
-  "apkUrl": "https://drive.usercontent.google.com/download?id=1SLVCUX4f3n0N1ecDU_IRXxRyp6GT7Jdf&export=download",
-  "checksum": "e01fdb5be3126c2d0593efe31339264833c030d1151a63054c45b6453af05e04"
+    "changelog":  "Nova versao 1.49 com atualizacao instantanea no app!",
+    "versionName":  "1.49",
+    "zipUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/5d3983f668a18ba6f6cfd5ab04a23381837d0bbc/dist-49.zip",
+    "versionCode":  49,
+    "mandatory":  false,
+    "apkUrl":  "https://drive.usercontent.google.com/download?id=1SLVCUX4f3n0N1ecDU_IRXxRyp6GT7Jdf\u0026export=download",
+    "checksum":  "72b8fa50c104610ea1e4c4603f869d17e76f314307d2ffcc56bb1aeeb932f630"
 }
