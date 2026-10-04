@@ -24,6 +24,17 @@
                   },
                   {
                       "console":  "ps1",
+                      "id":  "ps1-d3e6fa6d2574ca30a24b0074",
+                      "name":  "3Xtreme",
+                      "fileName":  "ps1-d3e6fa6d2574ca30a24b0074.pbp",
+                      "size":  267083465,
+                      "favorite":  false,
+                      "sha256":  "d3e6fa6d2574ca30a24b00744444d0caadd59787bb6a02543f9643ee383db19b",
+                      "url":  "https://github.com/Balanca02/lmart-updates/releases/download/jogos/ps1-d3e6fa6d2574ca30a24b0074.pbp",
+                      "coverUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/main/games/covers/capa-21b9aa86c69edcfef23fb7fb.jpg"
+                  },
+                  {
+                      "console":  "ps1",
                       "id":  "ps1-581ba155a5ae1a34ac1cb074",
                       "name":  "Crash Bandicoot - Warped",
                       "fileName":  "ps1-581ba155a5ae1a34ac1cb074.pbp",
