@@ -1,14 +1,23 @@
-{
-  "schemaVersion": 1,
-  "games": [
-    {
-      "sha256": "3961201625ee9ce157aa5eb17fb875e34dca0295836ce6740e385c4aa423e32d",
-      "favorite": false,
-      "id": "classicube-ps1",
-      "size": 3184608,
-      "fileName": "ClassiCube-PS1.bin",
-      "name": "ClassiCube PS1",
-      "url": "https://cdn.classicube.net/client/latest/ClassiCube-PS1.bin"
-    }
-  ]
+﻿{
+    "schemaVersion":  1,
+    "games":  [
+                  {
+                      "sha256":  "3961201625ee9ce157aa5eb17fb875e34dca0295836ce6740e385c4aa423e32d",
+                      "favorite":  false,
+                      "id":  "classicube-ps1",
+                      "size":  3184608,
+                      "fileName":  "ClassiCube-PS1.bin",
+                      "name":  "ClassiCube PS1",
+                      "url":  "https://cdn.classicube.net/client/latest/ClassiCube-PS1.bin"
+                  },
+                  {
+                      "id":  "ps1-4b6fcc1e57d0580761ee669f",
+                      "name":  "Dragonball GT - Final Bout",
+                      "fileName":  "ps1-4b6fcc1e57d0580761ee669f.pbp",
+                      "size":  62309001,
+                      "favorite":  false,
+                      "sha256":  "4b6fcc1e57d0580761ee669f30edb861e44e549880813439fdf86930bf74c0d2",
+                      "url":  "https://github.com/Balanca02/lmart-updates/releases/download/jogos/ps1-4b6fcc1e57d0580761ee669f.pbp"
+                  }
+              ]
 }
