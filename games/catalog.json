@@ -11,6 +11,8 @@
                       "url":  "https://cdn.classicube.net/client/latest/ClassiCube-PS1.bin"
                   },
                   {
+                      "console":  "ps1",
+                      "coverUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/main/games/covers/capa-37c07c96aa9a44f76111ed9a.jpg",
                       "id":  "ps1-4b6fcc1e57d0580761ee669f",
                       "name":  "Dragonball GT - Final Bout",
                       "fileName":  "ps1-4b6fcc1e57d0580761ee669f.pbp",
