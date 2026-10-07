@@ -1,10 +1,10 @@
 {
-    "changelog":  "Nova versao 1.225 com atualizacao instantanea no app!",
-    "minimumNativeVersion":  225,
-    "versionName":  "1.225",
-    "zipUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/eeca7fc9c23eedd331161c6023e5727bf95ed4b6/dist-225.zip",
-    "versionCode":  225,
+    "changelog":  "Nova versao 1.227 com atualizacao instantanea no app!",
+    "minimumNativeVersion":  227,
+    "versionName":  "1.227",
+    "zipUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/f0967756dfa6a041ed4af44903eb624b25292181/dist-227.zip",
+    "versionCode":  227,
     "mandatory":  false,
     "apkUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/main/LmartDigital.apk",
-    "checksum":  "185bf5ba0ce470698a6490ee052cacc357b7b875a3a8f64a11327f056feaab4d"
+    "checksum":  "038b5e05e890931a0ba0972f7ce9cb88e0766fb27b5cde0403d89cc4c6a9e0f8"
 }
