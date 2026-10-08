@@ -1,11 +1,10 @@
 {
   "platform": "webos",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "packageUrl": "https://raw.githubusercontent.com/Balanca02/lmart-updates/main/lg/LmartDigital.ipk",
-  "sha256": "98aefedea67f07ed0d464aab222a27a62723d15328c1ee572bc90faba0de9b70",
+  "sha256": "162000aa73713136dad9908fbbce9f62da2329207dbdc8f116eda958048cd569",
   "notes": [
-    "Busca de atualizações própria da LG na tela principal e configurações.",
-    "Instalação do pacote publicado pelo computador com atualizar-lg.bat.",
-    "Mantidas as otimizações de reprodução e navegação da LG."
+    "Barra roxa de progresso nos canais ao vivo em tela cheia.",
+    "Controles permanecem visíveis ao pausar; margem inferior aumentada para evitar cortes na TV."
   ]
 }
