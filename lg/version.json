@@ -1,11 +1,10 @@
 {
   "platform": "webos",
-  "version": "1.1.7",
+  "version": "1.1.8",
   "packageUrl": "https://raw.githubusercontent.com/Balanca02/lmart-updates/main/lg/LmartDigital.ipk",
-  "sha256": "009f36abca99844840e460fc2cb3464d646d3406f5ef289490ad491d239ae5ac",
+  "sha256": "33a5cfc017834ccda76819be4a24d0b3786bc0ce79fd5865fec15bc2f48690b0",
   "notes": [
-    "Logo local SBT para os canais regionais, sem depender da imagem externa.",
-    "Logos locais para outras marcas reconhecidas já incluídas no pacote.",
-    "Símbolo de futebol para jogos sem imagem e identificação discreta para canais sem logo."
+    "Botão Sair do app também na tela principal de servidores.",
+    "Saída libera a reprodução antes de fechar o aplicativo LG."
   ]
 }
