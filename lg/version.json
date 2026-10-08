@@ -1,10 +1,11 @@
 {
   "platform": "webos",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "packageUrl": "https://raw.githubusercontent.com/Balanca02/lmart-updates/main/lg/LmartDigital.ipk",
-  "sha256": "162000aa73713136dad9908fbbce9f62da2329207dbdc8f116eda958048cd569",
+  "sha256": "4fa35435cdc583a3240df99bef78386e637994f69f817ed8503b93b9e3c571ab",
   "notes": [
-    "Barra roxa de progresso nos canais ao vivo em tela cheia.",
-    "Controles permanecem visíveis ao pausar; margem inferior aumentada para evitar cortes na TV."
+    "Identificações compactas dos canais sem logo na lista do player.",
+    "Tentativas alternativas de transmissão após oito segundos e limite total de conexão de trinta segundos.",
+    "Recuperação de erro de formato sem confundir com permissão de reprodução."
   ]
 }
