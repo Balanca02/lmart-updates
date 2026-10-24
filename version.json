@@ -1,10 +1,10 @@
 {
-    "changelog":  "Nova versao 1.271 com atualizacao instantanea no app!",
-    "minimumNativeVersion":  271,
-    "versionName":  "1.271",
-    "zipUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/653c8623cf47d13db7b0a71582fc7e2ce5edd623/dist-271.zip",
-    "versionCode":  271,
-    "mandatory":  false,
-    "apkUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/main/LmartDigital.apk",
-    "checksum":  "d5ab0622d741a66292ecee9670ab4b6e709d467fc2b5b9bcfc85496bc601c0c6"
+  "apkUrl": "https://raw.githubusercontent.com/Balanca02/lmart-updates/main/LmartDigital.apk",
+  "changelog": "Player Android atualizado: antitravamento FHD para HD com aviso na tela, reconhecimento de variantes, recuperação sem limpar a última imagem e pausa local de até 5 GB. Mantém a DNS atualizada dos servidores. Requer instalar o novo APK.",
+  "versionName": "1.272",
+  "minimumNativeVersion": 272,
+  "versionCode": 272,
+  "mandatory": false,
+  "zipUrl": "https://raw.githubusercontent.com/Balanca02/lmart-updates/8fa721225d25218ff4984a6f10fd6dbee5320a06/dist-272.zip",
+  "checksum": "74cc7d39f93900fe1eb8bb04f19e0a2f3137d1fdf82cc82e0c232f34a9a8c2f1"
 }
