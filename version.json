@@ -1,5 +1,5 @@
 {
-  "apkUrl": "https://raw.githubusercontent.com/Balanca02/lmart-updates/main/LmartDigital.apk",
+  "apkUrl": "https://raw.githubusercontent.com/Balanca02/lmart-updates/8fa721225d25218ff4984a6f10fd6dbee5320a06/LmartDigital.apk",
   "changelog": "Player Android atualizado: antitravamento FHD para HD com aviso na tela, reconhecimento de variantes, recuperação sem limpar a última imagem e pausa local de até 5 GB. Mantém a DNS atualizada dos servidores. Requer instalar o novo APK.",
   "versionName": "1.272",
   "minimumNativeVersion": 272,
