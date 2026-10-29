@@ -1,10 +1,10 @@
 {
-  "apkUrl": "https://raw.githubusercontent.com/Balanca02/lmart-updates/ab9d9724242f1655c9ba1cc07e11650b297ab499/LmartDigital.apk",
-  "changelog": "Retorno mais rápido às categorias de filmes e séries já abertas. Avaliações com estrela e ícones nos detalhes, identificação de filme/série e correção da leitura das notas. Configurações agrupadas e menu dos catálogos mais compacto, mantendo o fundo do LMART.",
-  "versionName": "1.275",
-  "minimumNativeVersion": 275,
-  "versionCode": 275,
+  "apkUrl": "https://raw.githubusercontent.com/Balanca02/lmart-updates/83f04792e9b6509de552b731f9d64f1474f65282/LmartDigital.apk",
+  "changelog": "Corrige tela escura ao trocar categorias com títulos inválidos. Abertura direta, com preparação leve da primeira categoria de filmes e séries em segundo plano, sem aguardar baixar todos os catálogos. Mantém o cache das categorias visitadas e melhora o botão de voltar às séries.",
+  "versionName": "1.276",
+  "minimumNativeVersion": 276,
+  "versionCode": 276,
   "mandatory": false,
-  "zipUrl": "https://raw.githubusercontent.com/Balanca02/lmart-updates/ab9d9724242f1655c9ba1cc07e11650b297ab499/dist-275.zip",
-  "checksum": "0a92cd456dc5494abcb60e735c131a7708c8c03c86061192fe47df83173147d3"
+  "zipUrl": "https://raw.githubusercontent.com/Balanca02/lmart-updates/83f04792e9b6509de552b731f9d64f1474f65282/dist-276.zip",
+  "checksum": "c6dd7842d7cf0d117ada1b685aff3db9159af160215ec7a898b27854b844e384"
 }
