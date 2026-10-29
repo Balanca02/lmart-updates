@@ -1,10 +1,10 @@
 {
-  "apkUrl": "https://raw.githubusercontent.com/Balanca02/lmart-updates/8fa721225d25218ff4984a6f10fd6dbee5320a06/LmartDigital.apk",
-  "changelog": "Player Android atualizado: antitravamento FHD para HD com aviso na tela, reconhecimento de variantes, recuperação sem limpar a última imagem e pausa local de até 5 GB. Mantém a DNS atualizada dos servidores. Requer instalar o novo APK.",
-  "versionName": "1.272",
-  "minimumNativeVersion": 272,
-  "versionCode": 272,
+  "apkUrl": "https://raw.githubusercontent.com/Balanca02/lmart-updates/c636cf94d749db6d8fe8440cfc0ef6bbea499cc9/LmartDigital.apk",
+  "changelog": "Busca global inteligente em filmes e séries, favoritos e histórico no final do Início. Central do ao vivo com estado da reprodução e atraso da pausa, aviso após troca de qualidade e proteção contra abertura repetida do player. Requer instalar o novo APK.",
+  "versionName": "1.273",
+  "minimumNativeVersion": 273,
+  "versionCode": 273,
   "mandatory": false,
-  "zipUrl": "https://raw.githubusercontent.com/Balanca02/lmart-updates/8fa721225d25218ff4984a6f10fd6dbee5320a06/dist-272.zip",
-  "checksum": "74cc7d39f93900fe1eb8bb04f19e0a2f3137d1fdf82cc82e0c232f34a9a8c2f1"
+  "zipUrl": "https://raw.githubusercontent.com/Balanca02/lmart-updates/c636cf94d749db6d8fe8440cfc0ef6bbea499cc9/dist-273.zip",
+  "checksum": "a995b17905fcda5378721b6eec1a3a7be293c4620a89a83b63ab95540e413d3a"
 }
