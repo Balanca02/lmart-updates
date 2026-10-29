@@ -1,10 +1,10 @@
 {
-  "apkUrl": "https://raw.githubusercontent.com/Balanca02/lmart-updates/158ca97bb3f84bf5faf318dec60d68717d38b385/LmartDigital.apk",
-  "changelog": "Início adaptado para celulares: logo maior e reposicionada, textos e botões mais legíveis e destaque compacto. Fundo aguarda a imagem horizontal carregar, evitando ampliar o pôster antes da capa. Mantém as melhorias de busca, histórico e player da versão anterior.",
-  "versionName": "1.274",
-  "minimumNativeVersion": 274,
-  "versionCode": 274,
+  "apkUrl": "https://raw.githubusercontent.com/Balanca02/lmart-updates/ab9d9724242f1655c9ba1cc07e11650b297ab499/LmartDigital.apk",
+  "changelog": "Retorno mais rápido às categorias de filmes e séries já abertas. Avaliações com estrela e ícones nos detalhes, identificação de filme/série e correção da leitura das notas. Configurações agrupadas e menu dos catálogos mais compacto, mantendo o fundo do LMART.",
+  "versionName": "1.275",
+  "minimumNativeVersion": 275,
+  "versionCode": 275,
   "mandatory": false,
-  "zipUrl": "https://raw.githubusercontent.com/Balanca02/lmart-updates/158ca97bb3f84bf5faf318dec60d68717d38b385/dist-274.zip",
-  "checksum": "d7e5914bc8822cf29184b731ccb28b9b7f1f9930ed883ee6c1ab35447359a18b"
+  "zipUrl": "https://raw.githubusercontent.com/Balanca02/lmart-updates/ab9d9724242f1655c9ba1cc07e11650b297ab499/dist-275.zip",
+  "checksum": "0a92cd456dc5494abcb60e735c131a7708c8c03c86061192fe47df83173147d3"
 }
