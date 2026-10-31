@@ -1,10 +1,10 @@
 {
-  "apkUrl": "https://raw.githubusercontent.com/Balanca02/lmart-updates/83f04792e9b6509de552b731f9d64f1474f65282/LmartDigital.apk",
-  "changelog": "Corrige tela escura ao trocar categorias com títulos inválidos. Abertura direta, com preparação leve da primeira categoria de filmes e séries em segundo plano, sem aguardar baixar todos os catálogos. Mantém o cache das categorias visitadas e melhora o botão de voltar às séries.",
-  "versionName": "1.276",
-  "minimumNativeVersion": 276,
-  "versionCode": 276,
+  "apkUrl": "https://raw.githubusercontent.com/Balanca02/lmart-updates/2afb9587ec4604d50d77f27072be5a2f25fefa96/LmartDigital.apk",
+  "changelog": "Perfis por servidor e usuário após o login, com histórico e favoritos separados, senha opcional e exclusão com confirmação. Seleção moderna com 24 avatares e nome do perfil no menu. Assistente local de sugestões e diagnóstico da reprodução. Requer instalar o APK atualizado.",
+  "versionName": "1.282",
+  "minimumNativeVersion": 282,
+  "versionCode": 282,
   "mandatory": false,
-  "zipUrl": "https://raw.githubusercontent.com/Balanca02/lmart-updates/83f04792e9b6509de552b731f9d64f1474f65282/dist-276.zip",
-  "checksum": "c6dd7842d7cf0d117ada1b685aff3db9159af160215ec7a898b27854b844e384"
+  "zipUrl": "https://raw.githubusercontent.com/Balanca02/lmart-updates/2afb9587ec4604d50d77f27072be5a2f25fefa96/dist-282.zip",
+  "checksum": "aa1454a437df0e1f25b88284073ccaa4b2baf316b92ff963a92dea7068df832d"
 }
