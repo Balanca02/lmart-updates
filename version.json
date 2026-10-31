@@ -1,10 +1,10 @@
 {
-  "apkUrl": "https://raw.githubusercontent.com/Balanca02/lmart-updates/7848cb9e5a6797b0164fadc35e19d1f71584284b/LmartDigital.apk",
-  "changelog": "30 avatares para perfis, incluindo nova coleção de seis heróis. Perfil Principal sem restrição por padrão, últimos assistidos com notas e progresso, personalização visível e assistente local redesenhado com capas e sugestões. Mantém senha e dados separados por perfil e servidor. Requer instalar o APK atualizado.",
-  "versionName": "1.285",
-  "minimumNativeVersion": 285,
-  "versionCode": 285,
+  "apkUrl": "https://raw.githubusercontent.com/Balanca02/lmart-updates/00cead064b45598b245c23a11804abcbce3cee79/LmartDigital.apk",
+  "changelog": "Corrige tela roxa no Assistente com notas numéricas e metadados inválidos. Busca de filmes e séries progressiva por categorias, mostrando resultados sem aguardar o catálogo completo. Mantém perfis, avatares, senha e histórico por servidor. Requer instalar o APK atualizado.",
+  "versionName": "1.286",
+  "minimumNativeVersion": 286,
+  "versionCode": 286,
   "mandatory": false,
-  "zipUrl": "https://raw.githubusercontent.com/Balanca02/lmart-updates/7848cb9e5a6797b0164fadc35e19d1f71584284b/dist-285.zip",
-  "checksum": "691ad1152eb392b16b6f5b7b8aa0098faf08cc2c067487ce1dfa964b4a287f10"
+  "zipUrl": "https://raw.githubusercontent.com/Balanca02/lmart-updates/00cead064b45598b245c23a11804abcbce3cee79/dist-286.zip",
+  "checksum": "62184e7bbb36ab3321dc9f2529b321d6c336636e76c4bd193131627d214db14d"
 }
