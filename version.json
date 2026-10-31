@@ -1,10 +1,10 @@
 {
-  "apkUrl": "https://raw.githubusercontent.com/Balanca02/lmart-updates/2afb9587ec4604d50d77f27072be5a2f25fefa96/LmartDigital.apk",
-  "changelog": "Perfis por servidor e usuário após o login, com histórico e favoritos separados, senha opcional e exclusão com confirmação. Seleção moderna com 24 avatares e nome do perfil no menu. Assistente local de sugestões e diagnóstico da reprodução. Requer instalar o APK atualizado.",
-  "versionName": "1.282",
-  "minimumNativeVersion": 282,
-  "versionCode": 282,
+  "apkUrl": "https://raw.githubusercontent.com/Balanca02/lmart-updates/7848cb9e5a6797b0164fadc35e19d1f71584284b/LmartDigital.apk",
+  "changelog": "30 avatares para perfis, incluindo nova coleção de seis heróis. Perfil Principal sem restrição por padrão, últimos assistidos com notas e progresso, personalização visível e assistente local redesenhado com capas e sugestões. Mantém senha e dados separados por perfil e servidor. Requer instalar o APK atualizado.",
+  "versionName": "1.285",
+  "minimumNativeVersion": 285,
+  "versionCode": 285,
   "mandatory": false,
-  "zipUrl": "https://raw.githubusercontent.com/Balanca02/lmart-updates/2afb9587ec4604d50d77f27072be5a2f25fefa96/dist-282.zip",
-  "checksum": "aa1454a437df0e1f25b88284073ccaa4b2baf316b92ff963a92dea7068df832d"
+  "zipUrl": "https://raw.githubusercontent.com/Balanca02/lmart-updates/7848cb9e5a6797b0164fadc35e19d1f71584284b/dist-285.zip",
+  "checksum": "691ad1152eb392b16b6f5b7b8aa0098faf08cc2c067487ce1dfa964b4a287f10"
 }
