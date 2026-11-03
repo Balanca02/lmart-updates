@@ -1,10 +1,10 @@
 {
-  "apkUrl": "https://raw.githubusercontent.com/Balanca02/lmart-updates/04921b9371ccba3b987d721741218cca8c2a7aab/LmartDigital.apk",
-  "changelog": "Meu momento no Início: atalhos do perfil para continuar assistindo, opções de até 30 minutos e sugestões. Foco do controle e movimentos leves nas capas.",
-  "versionName": "1.287",
-  "minimumNativeVersion": 287,
-  "versionCode": 287,
+  "apkUrl": "https://raw.githubusercontent.com/Balanca02/lmart-updates/20880c422da0b123e9ebc0d2428ea31e0fe80d12/LmartDigital.apk",
+  "changelog": "Antitravamento encontra versões do mesmo canal entre categorias. Busca de qualidades em segundo plano sem bloquear o controle. Reconhece variações HD² e codecs H.265, preservando regiões e números dos canais. Mantém Meu momento e pausa local.",
+  "versionName": "1.290",
+  "minimumNativeVersion": 290,
+  "versionCode": 290,
   "mandatory": false,
-  "zipUrl": "https://raw.githubusercontent.com/Balanca02/lmart-updates/04921b9371ccba3b987d721741218cca8c2a7aab/dist-287.zip",
-  "checksum": "322569a97717815452ad7b604896932439d3c9dbe07903806302659a4020408b"
+  "zipUrl": "https://raw.githubusercontent.com/Balanca02/lmart-updates/20880c422da0b123e9ebc0d2428ea31e0fe80d12/dist-290.zip",
+  "checksum": "5c80605504058af0bb9af99e184906c0895cf97820792bb1e4a3f02a3f922c91"
 }
