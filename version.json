@@ -1,10 +1,10 @@
 {
-  "apkUrl": "https://raw.githubusercontent.com/Balanca02/lmart-updates/00cead064b45598b245c23a11804abcbce3cee79/LmartDigital.apk",
-  "changelog": "Corrige tela roxa no Assistente com notas numéricas e metadados inválidos. Busca de filmes e séries progressiva por categorias, mostrando resultados sem aguardar o catálogo completo. Mantém perfis, avatares, senha e histórico por servidor. Requer instalar o APK atualizado.",
-  "versionName": "1.286",
-  "minimumNativeVersion": 286,
-  "versionCode": 286,
+  "apkUrl": "https://raw.githubusercontent.com/Balanca02/lmart-updates/04921b9371ccba3b987d721741218cca8c2a7aab/LmartDigital.apk",
+  "changelog": "Meu momento no Início: atalhos do perfil para continuar assistindo, opções de até 30 minutos e sugestões. Foco do controle e movimentos leves nas capas.",
+  "versionName": "1.287",
+  "minimumNativeVersion": 287,
+  "versionCode": 287,
   "mandatory": false,
-  "zipUrl": "https://raw.githubusercontent.com/Balanca02/lmart-updates/00cead064b45598b245c23a11804abcbce3cee79/dist-286.zip",
-  "checksum": "62184e7bbb36ab3321dc9f2529b321d6c336636e76c4bd193131627d214db14d"
+  "zipUrl": "https://raw.githubusercontent.com/Balanca02/lmart-updates/04921b9371ccba3b987d721741218cca8c2a7aab/dist-287.zip",
+  "checksum": "322569a97717815452ad7b604896932439d3c9dbe07903806302659a4020408b"
 }
