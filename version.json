@@ -1,10 +1,10 @@
 {
-  "apkUrl": "https://raw.githubusercontent.com/Balanca02/lmart-updates/20880c422da0b123e9ebc0d2428ea31e0fe80d12/LmartDigital.apk",
-  "changelog": "Antitravamento encontra versões do mesmo canal entre categorias. Busca de qualidades em segundo plano sem bloquear o controle. Reconhece variações HD² e codecs H.265, preservando regiões e números dos canais. Mantém Meu momento e pausa local.",
-  "versionName": "1.290",
-  "minimumNativeVersion": 290,
-  "versionCode": 290,
+  "apkUrl": "https://raw.githubusercontent.com/Balanca02/lmart-updates/e2fb63a114d199f12140c79558cab517f1d743d9/LmartDigital.apk",
+  "changelog": "Melhora a responsividade no celular, com categorias horizontais, busca e botões reorganizados para telas menores. Logo do servidor com moldura translúcida. Mantém a tela antiga de servidores, Meu momento, pausa ao vivo e antitravamento entre categorias.",
+  "versionName": "1.296",
+  "minimumNativeVersion": 296,
+  "versionCode": 296,
   "mandatory": false,
-  "zipUrl": "https://raw.githubusercontent.com/Balanca02/lmart-updates/20880c422da0b123e9ebc0d2428ea31e0fe80d12/dist-290.zip",
-  "checksum": "5c80605504058af0bb9af99e184906c0895cf97820792bb1e4a3f02a3f922c91"
+  "zipUrl": "https://raw.githubusercontent.com/Balanca02/lmart-updates/e2fb63a114d199f12140c79558cab517f1d743d9/dist-296.zip",
+  "checksum": "671caf253596f5cb6d5206c2f04ddd7f36e37e44854d40070613dceb0cf62e88"
 }
