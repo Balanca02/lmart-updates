@@ -1,10 +1,10 @@
 {
-    "changelog":  "DNS dos servidores gerenciados ocultas na entrada, seleção, login e edição. Cadastro e edição de DNS continuam disponíveis para servidores próprios. Atalhos do início compactados em uma linha.",
+    "changelog":  "Tela inicial mais limpa, com remoção dos três atalhos superiores de perfis, favoritos e histórico. DNS dos servidores gerenciados continuam ocultas na interface.",
     "minimumNativeVersion":  298,
-    "versionName":  "1.302",
-    "zipUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/ccbf3334613b96ea9eda060e60152f5e5e7aa170/dist-302.zip",
-    "versionCode":  302,
+    "versionName":  "1.303",
+    "zipUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/c9e69b001c8430f06bf593a6d9bc642b2c6b0343/dist-303.zip",
+    "versionCode":  303,
     "mandatory":  false,
-    "apkUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/ccbf3334613b96ea9eda060e60152f5e5e7aa170/LmartDigital.apk",
-    "checksum":  "f8d10bc8f14ee80b75dc398a804513d465317328c2d3160bd882c029ac46c38b"
+    "apkUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/c9e69b001c8430f06bf593a6d9bc642b2c6b0343/LmartDigital.apk",
+    "checksum":  "297dcb486b85272a5653eb452fb5369fb771b65c63aa7b5c2e2187a8a0bff44b"
 }
