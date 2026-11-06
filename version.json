@@ -1,10 +1,10 @@
 {
-    "changelog":  "Início mais compacto: atalhos de perfis, favoritos e histórico lado a lado nas TVs, com retirada da imagem do servidor do cabeçalho.",
+    "changelog":  "DNS dos servidores gerenciados ocultas na entrada, seleção, login e edição. Cadastro e edição de DNS continuam disponíveis para servidores próprios. Atalhos do início compactados em uma linha.",
     "minimumNativeVersion":  298,
-    "versionName":  "1.301",
-    "zipUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/c305b4585bb654ef155ab53abc1243d5bb829abf/dist-301.zip",
-    "versionCode":  301,
+    "versionName":  "1.302",
+    "zipUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/ccbf3334613b96ea9eda060e60152f5e5e7aa170/dist-302.zip",
+    "versionCode":  302,
     "mandatory":  false,
-    "apkUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/c305b4585bb654ef155ab53abc1243d5bb829abf/LmartDigital.apk",
-    "checksum":  "31f8c28491dc238bb18b862d9a9f8d0c09fdad2c3ad6e9958d39243e0ecdd947"
+    "apkUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/ccbf3334613b96ea9eda060e60152f5e5e7aa170/LmartDigital.apk",
+    "checksum":  "f8d10bc8f14ee80b75dc398a804513d465317328c2d3160bd882c029ac46c38b"
 }
