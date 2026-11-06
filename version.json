@@ -1,10 +1,10 @@
 {
-    "changelog":  "Correção da navegação por controle remoto nas configurações: setas, OK, seções expansíveis e botão Voltar com restauração do foco no menu.",
+    "changelog":  "Melhoria do topo da tela inicial nas TVs: perfis e identificação do servidor no mesmo cabeçalho, margens ajustadas e nome do servidor quando a logo não carregar.",
     "minimumNativeVersion":  298,
-    "versionName":  "1.299",
-    "zipUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/b9cf82e7c92b82ed6c1d84746504ff5705ce8e9c/dist-299.zip",
-    "versionCode":  299,
+    "versionName":  "1.300",
+    "zipUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/b28406bb060c172a7363c99ca78fd25b06a8fccc/dist-300.zip",
+    "versionCode":  300,
     "mandatory":  false,
-    "apkUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/b9cf82e7c92b82ed6c1d84746504ff5705ce8e9c/LmartDigital.apk",
-    "checksum":  "9076464844b55da4355ff222a1813d8c7558f43d3a055a851b059964de780db3"
+    "apkUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/b28406bb060c172a7363c99ca78fd25b06a8fccc/LmartDigital.apk",
+    "checksum":  "2793bab8265f2c845b7f3d0bd897fb51ddda3c2dd5377b77e758be3f2b9beab3"
 }
