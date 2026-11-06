@@ -1,10 +1,10 @@
 {
-    "changelog":  "Melhoria do topo da tela inicial nas TVs: perfis e identificação do servidor no mesmo cabeçalho, margens ajustadas e nome do servidor quando a logo não carregar.",
+    "changelog":  "Início mais compacto: atalhos de perfis, favoritos e histórico lado a lado nas TVs, com retirada da imagem do servidor do cabeçalho.",
     "minimumNativeVersion":  298,
-    "versionName":  "1.300",
-    "zipUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/b28406bb060c172a7363c99ca78fd25b06a8fccc/dist-300.zip",
-    "versionCode":  300,
+    "versionName":  "1.301",
+    "zipUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/c305b4585bb654ef155ab53abc1243d5bb829abf/dist-301.zip",
+    "versionCode":  301,
     "mandatory":  false,
-    "apkUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/b28406bb060c172a7363c99ca78fd25b06a8fccc/LmartDigital.apk",
-    "checksum":  "2793bab8265f2c845b7f3d0bd897fb51ddda3c2dd5377b77e758be3f2b9beab3"
+    "apkUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/c305b4585bb654ef155ab53abc1243d5bb829abf/LmartDigital.apk",
+    "checksum":  "31f8c28491dc238bb18b862d9a9f8d0c09fdad2c3ad6e9958d39243e0ecdd947"
 }
