@@ -1,10 +1,10 @@
 {
-    "changelog":  "Nova versao 1.297 com atualizacao instantanea no app!",
-    "minimumNativeVersion":  297,
-    "versionName":  "1.297",
-    "zipUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/af1727882cd35b5027b6167c1f34f29f652cbf82/dist-297.zip",
-    "versionCode":  297,
+    "changelog":  "Antitravamento aprimorado: oferta de SD após interrupções no HD, orientações para instabilidade no SD e avisos mais legíveis. A opção de continuar no SD respeita sua escolha até trocar de canal.",
+    "minimumNativeVersion":  298,
+    "versionName":  "1.298",
+    "zipUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/b7e5e23434c7da04ed25a05995b4e0eb0193aea7/dist-298.zip",
+    "versionCode":  298,
     "mandatory":  false,
-    "apkUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/af1727882cd35b5027b6167c1f34f29f652cbf82/LmartDigital.apk",
-    "checksum":  "f3c8aba5ff0d21ec1eded9cb88257e759ea8ec374680d868de60fb747c521544"
+    "apkUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/b7e5e23434c7da04ed25a05995b4e0eb0193aea7/LmartDigital.apk",
+    "checksum":  "b2a361308cf7c0339b13472cd3590b23758146ceeed39acb52c0ff6f5be358f2"
 }
