@@ -1,10 +1,10 @@
 {
-    "changelog":  "Tela inicial mais limpa, com remoção dos três atalhos superiores de perfis, favoritos e histórico. DNS dos servidores gerenciados continuam ocultas na interface.",
+    "changelog":  "Layout para celulares pequenos: rolagem na selecao de servidores, no login e nos catalogos, e previa de canais ajustada para telas estreitas.",
     "minimumNativeVersion":  298,
-    "versionName":  "1.303",
-    "zipUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/c9e69b001c8430f06bf593a6d9bc642b2c6b0343/dist-303.zip",
-    "versionCode":  303,
+    "versionName":  "1.304",
+    "zipUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/4f32e54364b0c09a2cf9f7a48b8ce5d1a964afb5/dist-304.zip",
+    "versionCode":  304,
     "mandatory":  false,
-    "apkUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/c9e69b001c8430f06bf593a6d9bc642b2c6b0343/LmartDigital.apk",
-    "checksum":  "297dcb486b85272a5653eb452fb5369fb771b65c63aa7b5c2e2187a8a0bff44b"
+    "apkUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/4f32e54364b0c09a2cf9f7a48b8ce5d1a964afb5/LmartDigital.apk",
+    "checksum":  "63bfea0714f3625d200d7d23438fa18f2ea21869df7b1ff8ead3e1921d1fa341"
 }
