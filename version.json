@@ -1,10 +1,10 @@
 {
-    "changelog":  "Layout para celulares pequenos: rolagem na selecao de servidores, no login e nos catalogos, e previa de canais ajustada para telas estreitas.",
-    "minimumNativeVersion":  298,
-    "versionName":  "1.304",
-    "zipUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/4f32e54364b0c09a2cf9f7a48b8ce5d1a964afb5/dist-304.zip",
-    "versionCode":  304,
-    "mandatory":  false,
-    "apkUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/4f32e54364b0c09a2cf9f7a48b8ce5d1a964afb5/LmartDigital.apk",
-    "checksum":  "63bfea0714f3625d200d7d23438fa18f2ea21869df7b1ff8ead3e1921d1fa341"
+    "changelog":  "Corrige a rolagem da lista de canais em celulares. Atualizacao obrigatoria.",
+    "minimumNativeVersion":  305,
+    "versionName":  "1.305",
+    "zipUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/009d8c5a743f7d72543da37c9668f135420feebb/dist-305.zip",
+    "versionCode":  305,
+    "mandatory":  true,
+    "apkUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/009d8c5a743f7d72543da37c9668f135420feebb/LmartDigital.apk",
+    "checksum":  "197cc2b095f5f2dd12b1893bb92ddb2e0bcc75a52b1f41b61508330d3d1970b4"
 }
