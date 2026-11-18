@@ -1,10 +1,10 @@
 {
-    "changelog":  "Tela de atualização ajustada para celulares pequenos. O botão Atualizar fica visível mesmo com avisos longos.",
+    "changelog":  "Tela de servidores organizada para celulares pequenos, com acesso facilitado à atualização e ao cadastro de servidor.",
     "minimumNativeVersion":  306,
-    "versionName":  "1.306",
-    "zipUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/1271cd2ba489c3fabe32927be10b73eb9a65bd74/dist-306.zip",
-    "versionCode":  306,
+    "versionName":  "1.307",
+    "zipUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/ca5cb5cc15873a56c90431ff35073d3d6ec46a71/dist-307.zip",
+    "versionCode":  307,
     "mandatory":  true,
-    "apkUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/1271cd2ba489c3fabe32927be10b73eb9a65bd74/LmartDigital.apk",
-    "checksum":  "ce3308003d419c04e851cd5ab9f77e93dae5847f3afa43f2bdc15d8693406781"
+    "apkUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/ca5cb5cc15873a56c90431ff35073d3d6ec46a71/LmartDigital.apk",
+    "checksum":  "bead314e6f2c2d48ac33a2f19126dacdeaccd8fd747666d8f1d01ef4d16ab328"
 }
