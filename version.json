@@ -1,10 +1,10 @@
 {
-    "changelog":  "Corrige a rolagem da lista de canais em celulares. Atualizacao obrigatoria.",
-    "minimumNativeVersion":  305,
-    "versionName":  "1.305",
-    "zipUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/009d8c5a743f7d72543da37c9668f135420feebb/dist-305.zip",
-    "versionCode":  305,
+    "changelog":  "Tela de atualização ajustada para celulares pequenos. O botão Atualizar fica visível mesmo com avisos longos.",
+    "minimumNativeVersion":  306,
+    "versionName":  "1.306",
+    "zipUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/1271cd2ba489c3fabe32927be10b73eb9a65bd74/dist-306.zip",
+    "versionCode":  306,
     "mandatory":  true,
-    "apkUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/009d8c5a743f7d72543da37c9668f135420feebb/LmartDigital.apk",
-    "checksum":  "197cc2b095f5f2dd12b1893bb92ddb2e0bcc75a52b1f41b61508330d3d1970b4"
+    "apkUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/1271cd2ba489c3fabe32927be10b73eb9a65bd74/LmartDigital.apk",
+    "checksum":  "ce3308003d419c04e851cd5ab9f77e93dae5847f3afa43f2bdc15d8693406781"
 }
