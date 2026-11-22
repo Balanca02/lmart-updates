@@ -1,10 +1,10 @@
 {
-    "changelog":  "Cards de episódios e destaques do Início mais compactos na Android TV.",
+    "changelog":  "Últimos assistidos com cards menores. As setas laterais percorrem apenas a fileira selecionada no Início.",
     "minimumNativeVersion":  308,
-    "versionName":  "1.309",
-    "zipUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/af5ffc0e59085ec71f5c414f6751838fd4531465/dist-309.zip",
-    "versionCode":  309,
+    "versionName":  "1.310",
+    "zipUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/b8342cf32cd86722a0f45cb70499bac66d18cc73/dist-310.zip",
+    "versionCode":  310,
     "mandatory":  false,
-    "apkUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/af5ffc0e59085ec71f5c414f6751838fd4531465/LmartDigital.apk",
-    "checksum":  "d9bd86c2f24bd6719a62e6248d574bec6735303dbebaf2f3199497a5a64c7bda"
+    "apkUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/b8342cf32cd86722a0f45cb70499bac66d18cc73/LmartDigital.apk",
+    "checksum":  "1cde0ce6f6faba952fc7e8dd8d26b8b7e91b8e1aa9d3ad21c8e1f9b63304d045"
 }
