@@ -1,10 +1,10 @@
 {
-    "changelog":  "Últimos assistidos com cards menores. As setas laterais percorrem apenas a fileira selecionada no Início.",
+    "changelog":  "A seta esquerda no primeiro card da fileira do Início leva ao menu lateral.",
     "minimumNativeVersion":  308,
-    "versionName":  "1.310",
-    "zipUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/b8342cf32cd86722a0f45cb70499bac66d18cc73/dist-310.zip",
-    "versionCode":  310,
+    "versionName":  "1.311",
+    "zipUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/32c25a75a7c3104f9cc6737047d85b7203ebeaa3/dist-311.zip",
+    "versionCode":  311,
     "mandatory":  false,
-    "apkUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/b8342cf32cd86722a0f45cb70499bac66d18cc73/LmartDigital.apk",
-    "checksum":  "1cde0ce6f6faba952fc7e8dd8d26b8b7e91b8e1aa9d3ad21c8e1f9b63304d045"
+    "apkUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/32c25a75a7c3104f9cc6737047d85b7203ebeaa3/LmartDigital.apk",
+    "checksum":  "ba1cf94dc70b5e792d82a8cc58c0a897dc2d368cc480a5222eb659eef0aed367"
 }
