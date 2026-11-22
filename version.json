@@ -1,10 +1,10 @@
 {
-    "changelog":  "Tela de servidores organizada para celulares pequenos, com acesso facilitado à atualização e ao cadastro de servidor.",
+    "changelog":  "Os episódios agora mostram se foram assistidos e de onde continuar.",
     "minimumNativeVersion":  306,
-    "versionName":  "1.307",
-    "zipUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/ca5cb5cc15873a56c90431ff35073d3d6ec46a71/dist-307.zip",
-    "versionCode":  307,
-    "mandatory":  true,
-    "apkUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/ca5cb5cc15873a56c90431ff35073d3d6ec46a71/LmartDigital.apk",
-    "checksum":  "bead314e6f2c2d48ac33a2f19126dacdeaccd8fd747666d8f1d01ef4d16ab328"
+    "versionName":  "1.308",
+    "zipUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/77e0190efd2b81e16065abb7f1c564d641e36d42/dist-308.zip",
+    "versionCode":  308,
+    "mandatory":  false,
+    "apkUrl":  "https://raw.githubusercontent.com/Balanca02/lmart-updates/77e0190efd2b81e16065abb7f1c564d641e36d42/LmartDigital.apk",
+    "checksum":  "c8c576de0df5fa83e981a91a6cb1099e9fcae3c7c704250fb09268c02673d26e"
 }
